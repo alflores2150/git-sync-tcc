@@ -15,8 +15,6 @@ exports.TEST_REQUEST_CONTEXT = {
     },
     httpMethod: 'GET',
     identity: {
-        accessKey: "fakeSecretAccessKey",
-        accountId: '123456789012',
         apiKey: null,
         apiKeyId: null, 
         caller: null,
